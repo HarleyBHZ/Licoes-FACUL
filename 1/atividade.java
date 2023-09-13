@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-witdh, initial-scale=1.0">
-    <title>Hello, Word</title>
+    <title>Hello, World</title>
 </head>
 <body>
     <div id="olamundo"></div>
     <script type="text/javascript">
-    document.getElementById('olamundo').innerHTML = 'Hello, Worl!';
+    document.getElementById('olamundo').innerHTML = 'Hello, World!';
     </script>
 </body>
-</ht
+</html>
